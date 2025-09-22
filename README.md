@@ -32,6 +32,16 @@ This project was created as part of my coursework to practice:
 - C++ programming
 - GUI development with SFML
 - Story branching and game design
+- Group Members:
+  Varushka Dayal
+  Luyanda Mhlongo
+  Londeka Mswane
+  Olwethu Lushozi
+  Sithembelo Meyiwa
+  Nhlanhla Zama
+  Sbongeleni Magudulela
+  Xolani Xulu
+  Zolile Mzobe
 
 ---
 
